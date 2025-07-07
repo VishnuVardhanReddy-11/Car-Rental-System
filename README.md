@@ -48,7 +48,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hacker-Man07/Car-Rental-MERN.git
+   git clone https://github.com/VishnuVardhanReddy-11/Car-Rental-System.git
    cd Car-Rental-MERN
 
 2. Install dependencies for Cliend and Server:
